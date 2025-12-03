@@ -1,9 +1,11 @@
 import math
 
-with open("input.txt") as f:
-	numbers1 = list(map(int, f.readline().split(" ")))
-	numbers2 = list(map(int, f.readline().split(" ")))
+a = [10, 5, 8, 3, 6]
+b = [1, 3, 1, 2, 1]
+c = zip(a, b)
 
-together = zip(numbers1, numbers2)
-result = sum([v[0] * v[1] for v in together])
+result = 0
+for v in c:
+	result += v[0] * v[1]
+
 print(result)
