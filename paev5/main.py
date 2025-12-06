@@ -1,7 +1,7 @@
 import math
 import re
 
-with open("input.txt") as f:
+with open("test.txt") as f:
 	lines = [line.strip() for line in f.readlines()]
 
 coordinates = []
