@@ -1,0 +1,12 @@
+6
+Hea hommikusöök: 5
+Super asukoht: 6
+Meeldiv teenindus: 4
+Rotid on toas: -4
+Vetsud on umbes: -2
+Tasuta parkimine: 2
+4
+0: Vetsud on umbes, Rotid on toas, Hea hommikusöök
+1: Super asukoht, Hea hommikusöök
+2: Rotid on toas
+3: Meeldiv teenindus, Super asukoht, Tasuta parkimine

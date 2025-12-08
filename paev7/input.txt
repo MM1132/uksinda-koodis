@@ -1,0 +1,99 @@
+23
+Hea hommikusöök: 5
+Super asukoht: 6
+Meeldiv teenindus: 4
+Rotid on toas: -4
+Vetsud on umbes: -2
+Tasuta parkimine: 2
+Mugav voodi: 3
+Puhas tuba: 3
+Vaikne tuba: 1
+Ilus vaade: 2
+Must põrand: -3
+Lärmakas naaber: -2
+Kuri teenindaja: -5
+Hallitus vannitoas: -6
+Putukad toas: -7
+Külm tuba: -3
+Kallis parkimine: -2
+Hea hind: 4
+Hubane disain: 2
+Tasuta kohv: 1
+Jõusaal: 3
+Bassein: 4
+Aeglane internet: -3
+74
+0: Jõusaal, Kuri teenindaja, Must põrand, Jõusaal, Bassein, Meeldiv teenindus
+1: Must põrand, Bassein, Puhas tuba, Ilus vaade, Vetsud on umbes
+2: Vaikne tuba, Aeglane internet, Tasuta parkimine, Puhas tuba, Vetsud on umbes, Hallitus vannitoas, Hallitus vannitoas
+3: Jõusaal, Ilus vaade, Hubane disain
+4: Hea hommikusöök, Bassein, Mugav voodi, Külm tuba, Rotid on toas, Rotid on toas, Vetsud on umbes
+5: Kallis parkimine, Lärmakas naaber, Hea hind
+6: Hallitus vannitoas, Hallitus vannitoas, Hubane disain, Vetsud on umbes
+7: Putukad toas, Putukad toas, Bassein, Aeglane internet, Kallis parkimine
+8: Jõusaal, Ilus vaade, Tasuta parkimine, Puhas tuba, Hea hind, Hea hommikusöök, Bassein, Kuri teenindaja
+9: Putukad toas, Vaikne tuba, Hubane disain, Super asukoht, Kallis parkimine, Hea hind
+10: Meeldiv teenindus, Hea hind, Hea hommikusöök, Hallitus vannitoas, Vetsud on umbes, Lärmakas naaber, Külm tuba
+11: Lärmakas naaber, Puhas tuba
+12: Lärmakas naaber, Jõusaal, Kallis parkimine, Jõusaal, Lärmakas naaber
+13: Kuri teenindaja, Külm tuba, Tasuta parkimine, Vaikne tuba
+14: Hea hommikusöök, Mugav voodi, Hubane disain, Bassein, Jõusaal, Puhas tuba
+15: Külm tuba, Hallitus vannitoas, Lärmakas naaber, Hea hind, Mugav voodi, Hallitus vannitoas, Meeldiv teenindus
+16: Hubane disain, Vetsud on umbes, Tasuta kohv, Rotid on toas, Lärmakas naaber
+17: Putukad toas, Hubane disain, Hubane disain, Puhas tuba, Hallitus vannitoas, Hallitus vannitoas, Putukad toas, Putukad toas
+18: Ilus vaade, Kallis parkimine, Külm tuba, Lärmakas naaber, Super asukoht, Aeglane internet, Must põrand
+19: Hallitus vannitoas, Puhas tuba, Lärmakas naaber, Bassein, Kallis parkimine, Super asukoht, Vetsud on umbes
+20: Külm tuba, Ilus vaade, Ilus vaade, Rotid on toas, Hea hommikusöök, Must põrand, Meeldiv teenindus, Aeglane internet
+21: Kallis parkimine, Tasuta kohv, Mugav voodi, Vaikne tuba
+22: Super asukoht, Bassein, Hea hommikusöök, Vetsud on umbes, Super asukoht, Tasuta parkimine
+23: Putukad toas, Must põrand, Must põrand, Meeldiv teenindus, Must põrand, Super asukoht, Kallis parkimine
+24: Hea hommikusöök, Külm tuba, Must põrand, Lärmakas naaber
+25: Külm tuba, Jõusaal, Külm tuba, Hubane disain
+26: Tasuta parkimine, Putukad toas, Jõusaal, Puhas tuba, Tasuta kohv
+27: Kuri teenindaja, Ilus vaade, Tasuta parkimine, Putukad toas, Lärmakas naaber
+28: Kuri teenindaja, Tasuta kohv, Vetsud on umbes, Vaikne tuba, Puhas tuba
+29: Hea hind, Rotid on toas, Lärmakas naaber, Aeglane internet, Rotid on toas, Lärmakas naaber, Puhas tuba
+30: Bassein, Külm tuba
+31: Kuri teenindaja, Vetsud on umbes, Külm tuba, Külm tuba, Must põrand, Lärmakas naaber, Hea hommikusöök, Hea hind
+32: Vetsud on umbes, Kallis parkimine, Bassein, Hea hommikusöök, Jõusaal, Kallis parkimine, Puhas tuba
+33: Kuri teenindaja, Meeldiv teenindus, Lärmakas naaber, Puhas tuba, Vaikne tuba, Lärmakas naaber
+34: Bassein, Must põrand, Putukad toas
+35: Ilus vaade, Rotid on toas, Puhas tuba, Hea hommikusöök
+36: Rotid on toas, Hubane disain, Vetsud on umbes, Puhas tuba
+37: Tasuta parkimine, Lärmakas naaber, Rotid on toas, Aeglane internet
+38: Hallitus vannitoas, Tasuta kohv, Rotid on toas, Tasuta parkimine, Must põrand
+39: Hallitus vannitoas, Tasuta kohv, Vaikne tuba, Kuri teenindaja
+40: Hea hommikusöök, Rotid on toas, Vetsud on umbes, Kuri teenindaja, Aeglane internet, Aeglane internet, Hea hind, Mugav voodi
+41: Must põrand, Ilus vaade
+42: Meeldiv teenindus, Putukad toas, Kallis parkimine, Must põrand
+43: Bassein, Ilus vaade
+44: Lärmakas naaber, Hubane disain, Aeglane internet, Tasuta parkimine, Tasuta parkimine, Külm tuba, Puhas tuba, Kallis parkimine
+45: Mugav voodi, Jõusaal, Rotid on toas, Hea hind, Bassein, Kallis parkimine, Külm tuba, Puhas tuba
+46: Hallitus vannitoas, Mugav voodi, Meeldiv teenindus, Aeglane internet, Rotid on toas, Hallitus vannitoas, Meeldiv teenindus
+47: Rotid on toas, Puhas tuba, Hea hommikusöök
+48: Meeldiv teenindus, Mugav voodi, Hubane disain, Meeldiv teenindus
+49: Kuri teenindaja, Hubane disain, Puhas tuba, Lärmakas naaber, Jõusaal, Aeglane internet, Hubane disain, Tasuta parkimine
+50: Kuri teenindaja, Hubane disain, Puhas tuba, Kuri teenindaja, Vetsud on umbes, Mugav voodi, Rotid on toas, Vaikne tuba
+51: Jõusaal, Hallitus vannitoas, Meeldiv teenindus
+52: Meeldiv teenindus, Lärmakas naaber, Lärmakas naaber
+53: Must põrand, Meeldiv teenindus, Meeldiv teenindus, Jõusaal, Must põrand, Mugav voodi, Hea hommikusöök, Vetsud on umbes
+54: Bassein, Hea hommikusöök, Putukad toas, Putukad toas, Super asukoht
+55: Super asukoht, Jõusaal
+56: Lärmakas naaber, Hallitus vannitoas, Aeglane internet, Vaikne tuba
+57: Mugav voodi, Tasuta parkimine, Tasuta kohv, Vaikne tuba, Bassein, Hea hommikusöök, Tasuta parkimine
+58: Bassein, Külm tuba, Kallis parkimine, Bassein, Aeglane internet, Hea hind, Rotid on toas, Hea hommikusöök
+59: Külm tuba, Bassein, Hea hommikusöök, Kuri teenindaja, Must põrand
+60: Hea hommikusöök, Puhas tuba, Must põrand, Puhas tuba, Bassein
+61: Lärmakas naaber, Super asukoht, Lärmakas naaber, Ilus vaade, Hallitus vannitoas, Bassein, Mugav voodi
+62: Kuri teenindaja, Lärmakas naaber, Hea hommikusöök, Putukad toas
+63: Puhas tuba, Hubane disain, Külm tuba, Jõusaal, Must põrand, Vetsud on umbes
+64: Vaikne tuba, Hallitus vannitoas, Puhas tuba, Tasuta parkimine
+65: Meeldiv teenindus, Hallitus vannitoas, Lärmakas naaber, Super asukoht, Hea hommikusöök
+66: Hea hommikusöök, Külm tuba, Hubane disain, Puhas tuba, Mugav voodi, Rotid on toas, Super asukoht
+67: Mugav voodi, Rotid on toas, Hea hommikusöök
+68: Aeglane internet, Super asukoht, Tasuta kohv
+69: Rotid on toas, Tasuta kohv, Must põrand
+70: Vaikne tuba, Hea hind, Bassein, Vaikne tuba, Hea hommikusöök, Lärmakas naaber
+71: Vetsud on umbes, Aeglane internet, Kallis parkimine, Bassein, Super asukoht, Kallis parkimine, Tasuta parkimine
+72: Aeglane internet, Super asukoht, Mugav voodi, Vaikne tuba
+73: Tasuta parkimine, Aeglane internet, Ilus vaade, Kuri teenindaja, Lärmakas naaber, Meeldiv teenindus, Puhas tuba, Kallis parkimine
