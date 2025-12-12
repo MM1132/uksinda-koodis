@@ -17,16 +17,14 @@ def get_depth_from_index(last_number, start_i = 0, depth = 1):
 	depths = []
 	for i in range(start_i + 1, len(numbers)):
 		if numbers[i] >= last_number:
-			if longest_chains[i] is not None:
-				depths.append(longest_chains[i])
-				continue
+			if longest_chains[i] is None:
+				longest_chains[i] = get_depth_from_index(numbers[i], i)
 
-			print(numbers[i], "is bigger than", last_number)
-			d = get_depth_from_index(numbers[i], i)
-			longest_chains[i] = d
-
+			# print(numbers[i], "is bigger than", last_number)
 			# print(f"Number: {numbers[i]}, Index: {i}, Depth: {d}")
-			depths.append(d)
+			
+			depths.append(longest_chains[i])
+			
 			# print(depths)
 	if len(depths) > 0:
 		return max(depths) + 1
