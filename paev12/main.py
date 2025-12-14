@@ -2,28 +2,19 @@ with open("input.txt") as f:
 	raw = f.read().strip()
 	numbers = [int(n.strip()) for n in raw.split(" ")]
 
-longest_chains = [None] * len(numbers)
+all_found_depths = [None] * len(numbers)
 
 def get_depth_from_index(last_number, start_i = 0, depth = 1):
-	# So you take our current number and you add it to the list
-	# if it is bigger than the last one, or the list has no elements
-	# then we add it into the list, and move onto the next number
-
-	# If we reach the end of the list, save the length of the array
-	# then for our function we change the 
-
-	# print("in index", start_i, "with depth")
-
 	depths = []
 	for i in range(start_i + 1, len(numbers)):
 		if numbers[i] >= last_number:
-			if longest_chains[i] is None:
-				longest_chains[i] = get_depth_from_index(numbers[i], i)
+			if all_found_depths[i] is None:
+				all_found_depths[i] = get_depth_from_index(numbers[i], i)
 
 			# print(numbers[i], "is bigger than", last_number)
 			# print(f"Number: {numbers[i]}, Index: {i}, Depth: {d}")
 			
-			depths.append(longest_chains[i])
+			depths.append(all_found_depths[i])
 			
 			# print(depths)
 	if len(depths) > 0:
@@ -31,12 +22,12 @@ def get_depth_from_index(last_number, start_i = 0, depth = 1):
 	return depth
 
 for index in range(len(numbers)):
-	longest_chains[index] = get_depth_from_index(numbers[index], index)
+	if all_found_depths[index] is None:
+		all_found_depths[index] = get_depth_from_index(numbers[index], index)
 
-print(longest_chains)
+print(all_found_depths)
 
-longest = max(filter(lambda v: v is not None, longest_chains))
+longest = max(filter(lambda v: v is not None, all_found_depths))
 print(f"longest chain: {longest}")
-print(len(numbers) - longest)
 
-# print(numbers)
+print(len(numbers) - longest)
