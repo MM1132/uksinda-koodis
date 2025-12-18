@@ -1,0 +1,5 @@
+New York: linn1, linn2
+linn1: New York, Tartu
+linn2: New York, linn3
+linn3: linn2, Tartu
+Tartu: linn1, linn3
