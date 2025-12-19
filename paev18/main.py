@@ -1,4 +1,4 @@
-with open("input.txt") as f:
+with open("test.txt") as f:
 	map = [[char for char in line.strip()] for line in f.readlines()]
 
 # Leiame Lennarti positsiooni
@@ -21,7 +21,7 @@ def get_sides_from_pos(pos):
 
 	positions = filter(lambda p: p[0] >= 0 and p[0] < len(map) and p[1] >= 0 and p[1] < len(map[0]), positions)
 	return positions
-distance = 0
+
 def f():
 	global map
 	queue = [startPos]
